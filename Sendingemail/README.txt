@@ -10,12 +10,17 @@ TO-DO LIST:
 - Improve the navbar with formatting and having logout appear only when logged in
 - Use bootstrap in order to have a better design for the web app
 
+-------------------------------------------------------------------------------------------------------
+Project idea:
+-------------
+Automate the process of sending emails with some customized features based on business requirements. You can have a list of email addresses and their respective names. Then you can modify the message and send emails to the target audience automatically.
 
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 Solutions
 ---------
 
-
+Djando documentation
+Sending email => https://docs.djangoproject.com/en/3.0/topics/email/
 
 
