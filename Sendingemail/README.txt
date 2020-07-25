@@ -2,12 +2,13 @@
 TO-DO LIST:
 -----------
 - Create a working basic two page web app   =============DONE============
-- Add a navbar to include home, Emails Sent, register, login and logout
-- Use base.html and extend to other html files
-- Create a working SentEmail page
-- Create a working login page and lagout button
-- Making the Emails Sent page login required
+- Add a navbar to include home, Emails Sent, register, login and logout ============DONE=============
+- Use base.html and extend to declutter your main html files ==========DONE=============
+- Create a working registration form ========DONE===========
+- Create a working login page and logout button ==========DONE===========
+- Making the Emails Sent page login required ===========DONE=============
 - Improve the navbar with formatting and having logout appear only when logged in
+- Create a working SentEmail page
 - Use bootstrap in order to have a better design for the web app
 
 -------------------------------------------------------------------------------------------------------
