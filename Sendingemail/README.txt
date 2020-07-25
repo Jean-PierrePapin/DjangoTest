@@ -1,7 +1,7 @@
 
 TO-DO LIST:
 -----------
-- Create a working basic two page web app
+- Create a working basic two page web app   =============DONE============
 - Add a navbar to include home, Emails Sent, register, login and logout
 - Use base.html and extend to other html files
 - Create a working SentEmail page
