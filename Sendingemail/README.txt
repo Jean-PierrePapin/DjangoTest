@@ -7,9 +7,17 @@ TO-DO LIST:
 - Create a working registration form ========DONE===========
 - Create a working login page and logout button ==========DONE===========
 - Making the Emails Sent page login required ===========DONE=============
+- Create an admin panel/superuser to add user manually ================DONE================
 - Improve the navbar with formatting and having logout appear only when logged in
 - Create a working SentEmail page
 - Use bootstrap in order to have a better design for the web app
+- Sending emails with email address, user's name, email title, content...
+- Sending emails to a target audience automatically
+- Create a category to sement users
+- Send emails to a specific user category
+- Create a login/logout/register system
+- Create a contact feature
+
 
 -------------------------------------------------------------------------------------------------------
 Project idea:
@@ -24,4 +32,17 @@ Solutions
 Djando documentation
 Sending email => https://docs.djangoproject.com/en/3.0/topics/email/
 
+
+-------------------------------------------------------------------------------------------------------
+
+App models
+----------
+
+- User model
+
+
+- Email model
+
+
+- Contact model
 
