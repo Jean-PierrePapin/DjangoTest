@@ -9,14 +9,13 @@ TO-DO LIST:
 - Making the Emails Sent page login required ===========DONE=============
 - Create an admin panel/superuser to add user manually ================DONE================
 - Improve the navbar with formatting and having logout appear only when logged in
-- Create a working SentEmail page
+- Create a working SentEmail page with Mailgun API
 - Use bootstrap in order to have a better design for the web app
 - Sending emails with email address, user's name, email title, content...
-- Sending emails to a target audience automatically
-- Create a category to sement users
-- Send emails to a specific user category
-- Create a login/logout/register system
-- Create a contact feature
+- Sending emails to a target audience automatically ==========ON-HOLD========
+- Create a category to sement users ==========ON-HOLD===========
+- Send emails to a specific user category ========ON-HOLD=======
+- Create a contact feature =========ON-HOLD===========
 
 
 -------------------------------------------------------------------------------------------------------
