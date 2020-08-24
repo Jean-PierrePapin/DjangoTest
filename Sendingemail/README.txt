@@ -31,6 +31,13 @@ Solutions
 Djando documentation
 Sending email => https://docs.djangoproject.com/en/3.0/topics/email/
 
+https://documentation.mailgun.com/en/latest/quickstart-sending.html#verify-your-domain
+
+Steps to send emails
+1. Follow the tutorial https://data-flair.training/blogs/django-send-email/
+2. Create a from with extra fields (body, subject...)
+3. Create the view
+4. Create the model
 
 -------------------------------------------------------------------------------------------------------
 
