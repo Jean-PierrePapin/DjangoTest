@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # Sending emails with the login system
+    'subscribe',
 ]
 
 MIDDLEWARE = [
@@ -125,12 +127,14 @@ LOGIN_REDIRECT_URL = '/accounts/sendingemails/'
 '''
 Sending email with Mailgun API
 '''
+""" 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = ''
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = ''
 EMAIL_USE_TLS = True
-EMAIL_USE_SSL = False
+EMAIL_USE_SSL = False 
+"""
 
 
