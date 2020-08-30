@@ -1,4 +1,4 @@
-from django import form
+from django import forms
 
 class Subscribe(forms.Form):
     Email = forms.EmailField()
